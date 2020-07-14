@@ -75,7 +75,7 @@ The final chart should look like this.
 
 ## Contact Info
 
-Twitter = Telegram = Discord = @dgnsrekt
+Twitter = Telegram = Tradingview = Discord = @dgnsrekt
 
 Email = dgnsrekt@pm.me
 
