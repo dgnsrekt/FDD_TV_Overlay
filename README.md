@@ -2,11 +2,11 @@
 
 ![alt text](https://www.tradingview.com/x/mj34TIIG/)
 
-[FDD Overlay](##-[FDD]-Ghost-Bands-Overview)
+[Strategy Overlay](## FDD-Strategy-Overlay-Overview)
 
-[FDD Ghost Bands](##FDD-Ghost-Band-Features)
+[Ghost Bands](##FDD-Ghost-Band-Features)
 
-[Setup Alerts.](##Setup-Alerts)
+[Alert Setup](##Setup-Alerts)
 
 [Candle Legend](##Candle-Legend)
 
@@ -57,24 +57,24 @@ The final chart should look like this.
 
 ---
 
-## Setup Alerts
+## FDD Strategy Overlay Overview
 
 ---
 
-## Candle Legend
-
----
-
-## FDD Overlay Overview
-
----
-
-## [FDD] Ghost Bands Overview
+## FDD Ghost Bands Overview
 [FDD] Ghost Bands is a low volatility squeeze strategy.  Its goals are to visualize periods of low volatility and stay subtle enough to layer on top of other strategy overlays and not add too much clutter.  These periods of low volatility will sometimes contract to a point, which lead to a breakout in price action.  However, the strategies job is not to determine the direction of the price breakout.
 
 [FDD] Ghost Bands Options
 * Show Full Bands – This will show the full bands including areas of volatility that did not meet the low volatility threshold.
 * SL Label – This is an experimental stop loss feature.  It uses anomalies detected in low to high and high to low volatility transitions to show points, which may be useful as exits. It is experimental and it may get you stopped out too early.  It is omnidirectional and most useful when you are already in a nice long or short trend and need a hint to take some profits off the table.  WARNING this is an experimental feature and you may not want to be too strict with using it as an exit, it will get you out too early from time to time.
+
+---
+
+## Setup Alerts
+
+---
+
+## Candle Legend
 
 ---
 
