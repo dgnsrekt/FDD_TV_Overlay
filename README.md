@@ -1,7 +1,7 @@
 # FDD Overlay
 
 
-[How to setup alerts.](##setup-alerts)
+[How to setup alerts.](#Setup-Alerts)
 
 ## Setup Guide
 
@@ -49,4 +49,4 @@ The final chart should look like this.
 ![alt text](https://www.tradingview.com/x/mj34TIIG/)
 
 
-## Setup Alerts
+# Setup Alerts
