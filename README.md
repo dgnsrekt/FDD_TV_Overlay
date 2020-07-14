@@ -1,10 +1,10 @@
-# FDD Strategy Overlay
+# [FDD] Strategy Overlay
 
 ![alt text](https://www.tradingview.com/x/mj34TIIG/)
 
-[Strategy Overlay](#fdd-ghost-bands-overview)
+[Strategy Overlay](#fdd-strategy-overlay-overview)
 
-[Ghost Bands](##FDD-Ghost-Band-Features)
+[Ghost Bands](#fdd-ghost-bands-overview)
 
 [Alert Setup](##Setup-Alerts)
 
