@@ -1,4 +1,9 @@
-# FDD Overlay Setup Guide
+# FDD Overlay
+
+
+[How to setup alerts.](##setup-alerts)
+
+## Setup Guide
 
 Create a **New Chart Layout**.
 
@@ -42,3 +47,6 @@ Add [FDD] GBANDS
 
 The final chart should look like this.
 ![alt text](https://www.tradingview.com/x/mj34TIIG/)
+
+
+## Setup Alerts
