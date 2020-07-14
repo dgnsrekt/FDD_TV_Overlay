@@ -41,4 +41,4 @@ Add [FDD] OVERLAY
 Add [FDD] GBANDS
 
 The final chart should look like this.
-![alt text](docs/img/final.png)
+![alt text](https://www.tradingview.com/x/mj34TIIG/)
