@@ -1,14 +1,14 @@
 # FDD Strategy Overlay
 
+![alt text](https://www.tradingview.com/x/mj34TIIG/)
 
-[How to setup alerts.](##Setup-Alerts)
+[FDD Overlay](##-[FDD]-Ghost-Bands-Overview)
+
+[FDD Ghost Bands](##FDD-Ghost-Band-Features)
+
+[Setup Alerts.](##Setup-Alerts)
 
 [Candle Legend](##Candle-Legend)
-
-[FDD Overlay Features](##FDD-Overlay-Features)
-
-[FDD Ghost Bands Features](##FDD-Ghost-Band-Features)
-
 
 ## Setup Guide
 
