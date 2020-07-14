@@ -1,4 +1,4 @@
-# FDD Overlay
+# FDD Strategy Overlay
 
 
 [How to setup alerts.](##Setup-Alerts)
