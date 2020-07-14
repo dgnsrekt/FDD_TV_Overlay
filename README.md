@@ -2,7 +2,13 @@
 
 
 [How to setup alerts.](##Setup-Alerts)
-[Label legend](##Candle-Labels)
+
+[Candle Legend](##Candle-Legend)
+
+[FDD Overlay Features](##FDD-Overlay-Features)
+
+[FDD Ghost Bands Features](##FDD-Ghost-Band-Features)
+
 
 ## Setup Guide
 
@@ -55,4 +61,12 @@ The final chart should look like this.
 
 ---
 
-## Candle Labels
+## Candle Legend
+
+---
+
+## FDD Overlay Features
+
+---
+
+## FDD Ghost Band Features
