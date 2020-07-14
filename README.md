@@ -2,13 +2,17 @@
 
 ![alt text](https://www.tradingview.com/x/mj34TIIG/)
 
-[Strategy Overlay](#fdd-strategy-overlay-overview)
+[Setup Guide](#setup-guide)
 
-[Ghost Bands](#fdd-ghost-bands-overview)
+[[FDD] Strategy Overlay](#fdd-strategy-overlay-overview)
 
-[Alert Setup](##Setup-Alerts)
+[[FDD] Ghost Bands](#fdd-ghost-bands-overview)
 
-[Candle Legend](##Candle-Legend)
+[Setup Alerts](#setup-alerts)
+
+[Candle Legend](#candle-legend)
+
+[Contact Information](#contact-information)
 
 ## Setup Guide
 
@@ -78,7 +82,7 @@ The final chart should look like this.
 
 ---
 
-## Contact Info
+## Contact Information
 
 Twitter = Telegram = Tradingview = Discord = @dgnsrekt
 
