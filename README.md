@@ -2,7 +2,7 @@
 
 ![alt text](https://www.tradingview.com/x/mj34TIIG/)
 
-[Strategy Overlay](## FDD-Strategy-Overlay-Overview)
+[Strategy Overlay](##-FDD-Strategy-Overlay-Overview)
 
 [Ghost Bands](##FDD-Ghost-Band-Features)
 
