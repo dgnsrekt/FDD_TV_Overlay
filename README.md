@@ -70,6 +70,15 @@ The final chart should look like this.
 ---
 
 ## FDD Ghost Band Features
+
+---
+
+## Contact Info
+
+Twitter = Telegram = Discord = @dgnsrekt
+
+Email = dgnsrekt@pm.me
+
 ```
 //
 //                        .-._                                                   _,-,
@@ -94,9 +103,3 @@ The final chart should look like this.
 //DGNSREKT (2020)
 //
 ```
-
-### Contact Info
-
-Twitter = Telegram = Discord = @dgnsrekt
-
-Email = dgnsrekt@pm.me
