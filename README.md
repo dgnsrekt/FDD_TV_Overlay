@@ -33,39 +33,39 @@
 
 Create a **New Chart Layout**.
 
-![alt text](docs/img/new_chart_layout.png)
+![alt text](docs/img/new_chart_layout.gif)
 
 Open **Chart settings**.
 
-![alt text](docs/img/chart_settings.png)
+![alt text](docs/img/open_chart_settings.gif)
 
 Under Chart settings  **Symbol**
 
-* Turn off borders.
+* Uncheck borders.
 * Turn both Wick colors to gray with an Opacity of 66%.
 
-![alt text](docs/img/chart_settings_example.png)
+![alt text](docs/img/chart_settings_symbol.gif)
+
+Under Chart settings **Status line**
+
+* Uncheck Symbol
+* Uncheck Indicator Values
+* Uncheck Background
+
+![alt text](docs/img/chart_settings_status_line_example.gif)
+
+Under Chart settings **Scales**
+
+* Check Symbol Name Label
+
+![alt text](docs/img/chart_settings_scales_example.gif)
 
 Under Chart settings  **Appearance**
 
 * Turn the background color to black
 * Change the Vert Grid Lines and Horz Grid Lines opacity to 0%
 
-![alt text](docs/img/chart_settings_appearance_example.png)
-
-Under Chart settings **Scales**
-
-* Turn on Symbol Name Label
-
-![alt text](docs/img/chart_settings_scales_example.png)
-
-Under Chart settings **Status line**
-
-* Turn off Symbol
-* Turn off Indicator Values
-* Turn off Background
-
-![alt text](docs/img/chart_settings_status_line_example.png)
+![alt text](docs/img/chart_settings_appearance_example.gif)
 
 Add [FDD] OVERLAY
 
