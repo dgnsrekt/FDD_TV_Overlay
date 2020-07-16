@@ -76,8 +76,10 @@ Under Chart settings  **Appearance**
 
 Add the **Indicators** to the chart
 
-* Add [FDD] OVERLAY
-* Add [FDD] GBANDS
+Under the Invite-only scripts
+
+* Add FOMO DRIVEN DEVELOPMENT GHOST BANDS V2
+* Add FOMO DRIVEN DEVELOPMENT OVERLAY
 
 ![alt text](docs/img/add_scripts.gif)
 
