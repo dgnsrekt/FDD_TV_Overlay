@@ -74,12 +74,16 @@ Under Chart settings  **Appearance**
 
 ![alt text](docs/img/chart_settings_appearance_example.gif)
 
+Add the **Indicators** to the chart
+
 * Add [FDD] OVERLAY
 * Add [FDD] GBANDS
 
 ![alt text](docs/img/add_scripts.gif)
 
-Save Template
+Create an Indicator **Template**
+
+TODO: explaination on what a template is.
 
 ![alt text](docs/img/save_template.gif)
 
