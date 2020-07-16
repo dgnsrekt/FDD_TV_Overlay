@@ -82,6 +82,8 @@ Under the Invite-only scripts
 * Add FOMO DRIVEN DEVELOPMENT OVERLAY
 
 ![alt text](docs/img/add_scripts.gif)
+TODO: redo add_scripts without stars
+TODO: add how to favorite the indicators
 
 Create an Indicator **Template**
 
