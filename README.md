@@ -1,6 +1,6 @@
-# [FDD] Strategy Overlay
+# Fomo Driven Development Strategy Overlay
 
-![alt text](https://www.tradingview.com/x/mj34TIIG/)
+![alt text](https://www.tradingview.com/x/nQ6DxTxA/)
 
 [Main Strategy Overlay](#fdd-strategy-overlay-overview)
 
@@ -17,6 +17,11 @@
 
 ## FDD Strategy Overlay Overview
 
+TODO: Write overview
+
+[FDD] Strategy Overlay Options
+
+![alt text](docs/img/overlay_options.png)
 ---
 
 ## FDD Ghost Bands Overview
@@ -27,6 +32,8 @@
 * Show Full Bands – This will show the full bands including areas of volatility that did not meet the low volatility threshold.
 
 * SL Label – This is an experimental stop loss feature.  It uses anomalies detected in low to high and high to low volatility transitions to show points, which may be useful as exits. It is experimental and it may get you stopped out too early.  It is omnidirectional and most useful when you are already in a nice long or short trend and need a hint to take some profits off the table.  WARNING this is an experimental feature and you may not want to be too strict with using it as an exit, it will get you out too early from time to time.
+
+![alt text](docs/img/ghost_band_options.png)
 
 ---
 ## Setup Guide
@@ -67,10 +74,15 @@ Under Chart settings  **Appearance**
 
 ![alt text](docs/img/chart_settings_appearance_example.gif)
 
-Add [FDD] OVERLAY
-Add [FDD] GBANDS
+* Add [FDD] OVERLAY
+* Add [FDD] GBANDS
 
 ![alt text](docs/img/add_scripts.gif)
+
+Save Template
+
+![alt text](docs/img/save_template.gif)
+
 
 ---
 
