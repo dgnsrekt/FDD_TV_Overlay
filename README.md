@@ -68,11 +68,9 @@ Under Chart settings  **Appearance**
 ![alt text](docs/img/chart_settings_appearance_example.gif)
 
 Add [FDD] OVERLAY
-
 Add [FDD] GBANDS
 
-The final chart should look like this.
-![alt text](https://www.tradingview.com/x/mj34TIIG/)
+![alt text](docs/img/add_scripts.gif)
 
 ---
 
